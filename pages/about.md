@@ -7,8 +7,11 @@ tags: [About, Archive]
 ---
 
 이름 : 최보민
+
 닉네임 : HotelDeLuna(Hodel)
+
 소속 : 숭실대학교 컴퓨터학부
+
 이메일 : bomin392357@gmail.com
 
 ---
